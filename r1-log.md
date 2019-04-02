@@ -14,4 +14,13 @@ Project initialization always takes more time than I expect, especially on an OS
 **Link to work**:
 [repo](https://github.com/warlokkz/UIElementsExperiment)
 
-### R1D1
+### R1D1 - 4/1/2019
+**Today's Progress**: 
+Day 1 of #100DaysOfCode Challenge! Continuing exploration of the UIElements API. Created a layout of visual elements using the FlexBox implementation available as a part of UIElements.
+
+**Thoughts**:
+I'm glad that the FlexBox API is mostly what I expected it to be. One thing that I found lacking was that there was not a "justifySelf" option, which made it difficult to add justification to a specific element among a list of others.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/UIElementsExperiment)
+
