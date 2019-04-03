@@ -24,3 +24,12 @@ I'm glad that the FlexBox API is mostly what I expected it to be. One thing that
 **Link to work**:
 [repo](https://github.com/warlokkz/UIElementsExperiment)
 
+### R1D2 - 4/2/2019
+**Today's Progress**: 
+Moved all of the inline-styles into a schnazy new USS file. Experimented with extending the VisualElement class into new Components, as opposed to building them inline. Also used the Manipulator class to turn the boxes red on click.
+
+**Thoughts**:
+I think there is a lot of potential in this new system, given that Unity is providing good primitive components to work with I suspect that porting a web Frontend framework will not be so hard (if it deserves to be here.)
+
+**Link to work**:
+[repo](https://github.com/warlokkz/UIElementsExperiment)
