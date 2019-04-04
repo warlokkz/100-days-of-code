@@ -33,3 +33,13 @@ I think there is a lot of potential in this new system, given that Unity is prov
 
 **Link to work**:
 [repo](https://github.com/warlokkz/UIElementsExperiment)
+
+### R1D3 - 4/3/2019
+**Today's Progress**: 
+Following the example provided by Unity, played around with the Toolbar UIElement primitives to build part of a todo-list.
+
+**Thoughts**:
+The Toolbar primitives are quick to setup and using flexbox to position them is a breeze. Building custom tools might seem like less of a chore in Unity now. 
+
+**Link to work**:
+[repo](https://github.com/warlokkz/UIElementsExperiment)
