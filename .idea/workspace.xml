@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/r1-log.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+              <first_editor relative-caret-position="561">
+                <caret line="38" column="94" lean-forward="true" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,8 +63,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="959" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="48" />
+    <option name="y" value="42" />
     <option name="width" value="968" />
     <option name="height" value="1087" />
   </component>
@@ -74,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,7 +87,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,16 +125,19 @@
       <workItem from="1554094743114" duration="3975000" />
       <workItem from="1554187916130" duration="325000" />
       <workItem from="1554265340702" duration="95000" />
+      <workItem from="1554273346613" duration="822000" />
+      <workItem from="1554352889781" duration="714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4395000" />
+    <option name="totallyTimeSpent" value="5931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="959" y="0" width="968" height="1087" extended-state="0" />
+    <frame x="617" y="86" width="968" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3655914" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3655914" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -206,8 +210,8 @@
     <entry file="file://$PROJECT_DIR$/r1-log.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+          <first_editor relative-caret-position="561">
+            <caret line="38" column="94" lean-forward="true" selection-start-line="38" selection-start-column="94" selection-end-line="38" selection-end-column="94" />
           </first_editor>
           <second_editor />
         </state>

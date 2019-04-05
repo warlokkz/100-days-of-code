@@ -43,3 +43,13 @@ The Toolbar primitives are quick to setup and using flexbox to position them is 
 
 **Link to work**:
 [repo](https://github.com/warlokkz/UIElementsExperiment)
+
+### R1D4 - 4/4/2019
+**Today's Progress**: 
+Broke out of following Unity's example and tried implementing a leader-board with UIElements in the Editor. Got the basic structure down.
+
+**Thoughts**:
+FlexBox is glorious. I'm kind of upset that they didn't implement `justify-self` for items in a flexbox container - I was used to using that.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/UIElementsExperiment)
