@@ -53,3 +53,13 @@ FlexBox is glorious. I'm kind of upset that they didn't implement `justify-self`
 
 **Link to work**:
 [repo](https://github.com/warlokkz/UIElementsExperiment)
+
+### R1D5 - 4/5/2019
+**Today's Progress**: 
+Added a manipulator class for adding mouse events and styling to the individual scores on the leaderboard.
+
+**Thoughts**:
+I'm trying to break things into components, because I'm so used to coding in React. But I don't know what best practice for creating UI in C# will be like.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/UIElementsExperiment)
