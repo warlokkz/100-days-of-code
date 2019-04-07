@@ -63,3 +63,13 @@ I'm trying to break things into components, because I'm so used to coding in Rea
 
 **Link to work**:
 [repo](https://github.com/warlokkz/UIElementsExperiment)
+
+### R1D6 - 4/6/2019
+**Today's Progress**: 
+Started a new prototype Unity project to play with their new ECS system. Got familiar with some of the constructs, but didn't get my axis movement system working yet.
+
+**Thoughts**:
+It seems like the ECS API is still in heavy development, many of the examples I've seen from 2018 are either deprecated or the API has changed drastically.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)

@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/r1-log.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="538">
-                <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+              <first_editor relative-caret-position="584">
+                <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
               </first_editor>
               <second_editor />
             </state>
@@ -126,14 +126,15 @@
       <workItem from="1554273346613" duration="822000" />
       <workItem from="1554352889781" duration="714000" />
       <workItem from="1554441451408" duration="441000" />
+      <workItem from="1554533951011" duration="290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6372000" />
+    <option name="totallyTimeSpent" value="6662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="42" width="968" height="1087" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.3655914" />
@@ -209,8 +210,8 @@
     <entry file="file://$PROJECT_DIR$/r1-log.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="538">
-            <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+          <first_editor relative-caret-position="584">
+            <caret line="58" column="57" selection-start-line="58" selection-start-column="57" selection-end-line="58" selection-end-column="57" />
           </first_editor>
           <second_editor />
         </state>
