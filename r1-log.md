@@ -73,3 +73,13 @@ It seems like the ECS API is still in heavy development, many of the examples I'
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D7 - 4/7/2019
+**Today's Progress**: 
+After some headache of patching compile errors, got the ECS working and rendering a component (cube). Then got it moving using a component system which was exciting!
+
+**Thoughts**:
+An important package to have installed in Unity is the Hybrid.Renderer to render the components. For a while I was expecting the cube to be there automatically from conversion.... 
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
