@@ -83,3 +83,13 @@ An important package to have installed in Unity is the Hybrid.Renderer to render
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D8 - 4/8/2019
+**Today's Progress**: 
+Spent a little more time reading and understanding the purpose + usage of ECS - and the "DOTS" stack in Unity. Got my little cube moving by mapping Input -> InputSystem -> MovementSystem. Hype!
+
+**Thoughts**:
+I really appreciate the separation of concerns that you get from a ECS style structure. Data is separated from functionality and it reminds me of a functional style of development.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
