@@ -93,3 +93,13 @@ I really appreciate the separation of concerns that you get from a ECS style str
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D9 - 4/9/2019
+**Today's Progress**: 
+Changed the motion of the movement to an xz-axis, added a small quad to represent the ocean that the ship will move on. Tried to get click-to-move working with a ClickSystem.
+
+**Thoughts**:
+It seems that the click-to-move isn't working because Raycasts are not registering as hit inside of the pure ECS systems. Going to need to rethink how this is going to work.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
