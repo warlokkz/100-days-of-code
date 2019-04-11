@@ -103,3 +103,13 @@ It seems that the click-to-move isn't working because Raycasts are not registeri
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D10 - 4/10/2019
+**Today's Progress**: 
+Added the Physics Preview package, following along samples of integrating the Physics library with a component system. Got a raycast to register off a click!
+
+**Thoughts**:
+The preview packages are in very early release and it sometimes makes it difficult to work with.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
