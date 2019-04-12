@@ -113,3 +113,13 @@ The preview packages are in very early release and it sometimes makes it difficu
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D11 - 4/11/2019
+**Today's Progress**: 
+Upgraded dependencies for unity.physics (up to date with current ECS, hurray!). Fleshed out the rest of the ClickSystem based on examples put out by the Unity team to transfer a Raycast to the MoveSystem to translate the object.
+
+**Thoughts**:
+There is quite a bit of the Job/ECS interaction that I do not fully understand, but I'm trying my best to analyze it while I create a working concept.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
