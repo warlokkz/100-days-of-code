@@ -123,3 +123,13 @@ There is quite a bit of the Job/ECS interaction that I do not fully understand, 
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D12 - 4/12/2019
+**Today's Progress**: 
+Not much progress today. Explored different ways of moving the character using the move system.
+
+**Thoughts**:
+I thought a NavMesh would be interesting to bring in, but I think I wanted to just use the physics to move the ship.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
