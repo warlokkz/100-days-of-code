@@ -133,3 +133,13 @@ I thought a NavMesh would be interesting to bring in, but I think I wanted to ju
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D13 - 4/13/2019
+**Today's Progress**: 
+Tried to refactor the movement system to orient the cube in the direction of the mouse-click, then move forward, but I just got a randomly spinning cube.
+
+**Thoughts**:
+I like this new approach as it is more straightforward in what to accomplish.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
