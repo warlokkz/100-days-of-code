@@ -143,3 +143,13 @@ I like this new approach as it is more straightforward in what to accomplish.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D14 - 4/14/2019
+**Today's Progress**: 
+Taking a break from the "ship" project to go through and learn some of the fundamentals of Unity without ECS.
+
+**Thoughts**:
+I have a general grasp over the process of how physics and scripting works in Unity, but combining my inexperience with movement control and a new system like ECS is hard to juggle at the same time.
+
+**Link to work**:
+n/a
