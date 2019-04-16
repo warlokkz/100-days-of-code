@@ -153,3 +153,13 @@ I have a general grasp over the process of how physics and scripting works in Un
 
 **Link to work**:
 n/a
+
+### R1D15 - 4/15/2019
+**Today's Progress**: 
+Studied physics fundamentals in Unity, like physics materials, joints and purposeful constraints in the editor.
+
+**Thoughts**:
+There is a lot of power given to the game developer through the Editor to play with Physics, but I'm curious on how to elegantly incorporate these components into a complex code base.
+
+**Link to work**:
+n/a
