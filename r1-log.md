@@ -163,3 +163,13 @@ There is a lot of power given to the game developer through the Editor to play w
 
 **Link to work**:
 n/a
+
+### R1D16 - 4/16/2019
+**Today's Progress**: 
+Studying more physics constructs in Unity: this time ragdolls and wheel colliders. Went down the rabbit-hole of looking at other ECS creations on the Unity Forums.
+
+**Thoughts**:
+DOTS seems to be a large movement within the Unity organization. Definitely need to spend more time in it.
+
+**Link to work**:
+n/a
