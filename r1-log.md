@@ -173,3 +173,13 @@ DOTS seems to be a large movement within the Unity organization. Definitely need
 
 **Link to work**:
 n/a
+
+### R1D17 - 4/17/2019
+**Today's Progress**: 
+Used a navmesh in a example project to move a character with a navmesh agent.
+
+**Thoughts**:
+NavMeshes and NavMesh agents make the character movement so easy to do in Unity. I want to try and use this in ECS.
+
+**Link to work**:
+n/a
