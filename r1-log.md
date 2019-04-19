@@ -183,3 +183,13 @@ NavMeshes and NavMesh agents make the character movement so easy to do in Unity.
 
 **Link to work**:
 n/a
+
+### R1D18 - 4/18/2019
+**Today's Progress**: 
+Beginning work on incorporating a NavMeshAgent system into the existing ECS code.
+
+**Thoughts**:
+I haven't a clue what I'm doing. but I'm trying to find examples of navmesh + ecs.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
