@@ -193,3 +193,13 @@ I haven't a clue what I'm doing. but I'm trying to find examples of navmesh + ec
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D19 - 4/19/2019
+**Today's Progress**: 
+More work (lots of reading) on trying to incorporate NavMeshAgents for the character movement system.
+
+**Thoughts**:
+Actually beginning to understand the decisions behind the example I'm following, which is nice so I think I have a direction to head in next time.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
