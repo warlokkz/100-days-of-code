@@ -203,3 +203,13 @@ Actually beginning to understand the decisions behind the example I'm following,
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D20 - 4/20/2019
+**Today's Progress**: 
+Worked on getting the data from ClickSystem into the NavigationSystem (being reworked from MovementSystem).
+
+**Thoughts**:
+I'm so grateful for examples on the internet.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
