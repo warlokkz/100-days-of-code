@@ -213,3 +213,13 @@ I'm so grateful for examples on the internet.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D21 - 4/25/2019
+**Today's Progress**: 
+Lost a few days because of the flu. Back on the horse with great success! Got my click to move working :*). Its so beautiful.
+
+**Thoughts**:
+You cannot box in a value type (components) inside of a job that is BurstCompiled, it doesn't support it. This includes the Debug.Log call which attempts to box the value into an object. This caused frustration. If you desperately need to log inside of the job execute, then remove the BurstCompile attribute while logging. 
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
