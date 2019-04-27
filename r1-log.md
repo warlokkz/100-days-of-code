@@ -223,3 +223,13 @@ You cannot box in a value type (components) inside of a job that is BurstCompile
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D22 - 4/26/2019
+**Today's Progress**: 
+Added in a little low-poly ship for flair in the project. Tried to combat the rotational fighting that happens when the ship reaches the destination, but I could not find a way yet. 
+
+**Thoughts**:
+Need to study more quaternions.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
