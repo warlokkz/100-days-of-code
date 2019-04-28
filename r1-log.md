@@ -233,3 +233,13 @@ Need to study more quaternions.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D23 - 4/27/2019
+**Today's Progress**: 
+Got the twitchy rotations from happening when the ship reached it's destination. Trying to refactor the click system so that it can produce a singleton value for other systems to use.
+
+**Thoughts**:
+I'm starting to wrap my head around when to use what construct where now.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
