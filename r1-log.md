@@ -243,3 +243,13 @@ I'm starting to wrap my head around when to use what construct where now.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D24 - 4/28/2019
+**Today's Progress**: 
+refactored the clickSystem's singleton implementation to be more aligned with the values of ECS, removing state from the ClickSystem.
+
+**Thoughts**:
+This part was a bit of a breakthrough for me! Its hardening my concepts of how systems should interact with one another, not by referencing eachother, but by reading eachother's components that they modify.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
