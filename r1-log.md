@@ -253,3 +253,13 @@ This part was a bit of a breakthrough for me! Its hardening my concepts of how s
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D25 - 4/29/2019
+**Today's Progress**: 
+Added the rough implementation of a cursor spawning system that spawns a cube wherever the user clicks (as visual feedback to know they clicked there).
+
+**Thoughts**:
+I can see the benefit of extracting your behavior into systems and state into components, it makes the contracts between systems very easy to reason about!
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
