@@ -263,3 +263,13 @@ I can see the benefit of extracting your behavior into systems and state into co
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D26 - 4/30/2019
+**Today's Progress**: 
+Refactored a bit today, particularly file structure, organizing components and systems into folders. I fixed an issue where the CursorSpawnSystem was spawning hundreds of cursors because of the ClickData. Now it spawns one per click
+
+**Thoughts**:
+There are times where I want to write things imperatively, or to let a system maintain state - similar to an OOP approach - but I am trying my best to stay close to the virtues of a ECS architecture.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
