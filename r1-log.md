@@ -273,3 +273,13 @@ There are times where I want to write things imperatively, or to let a system ma
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D27 - 5/1/2019
+**Today's Progress**: 
+Implemented a small despawning system for cursors, that makes a spawned cursor destroy it's entity after a specified lifetime.
+
+**Thoughts**:
+ECS is awesome.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
