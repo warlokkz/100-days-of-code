@@ -283,3 +283,13 @@ ECS is awesome.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D28 - 5/2/2019
+**Today's Progress**: 
+Played around with particle systems and integrating it into the hybrid renderer... but didn't get very far.
+
+**Thoughts**:
+There is a lot of work to be done to get existing systems to play nicely with ECS.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
