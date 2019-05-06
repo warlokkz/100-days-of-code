@@ -293,3 +293,14 @@ There is a lot of work to be done to get existing systems to play nicely with EC
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D29 - 5/5/2019
+**Today's Progress**: 
+Refactored the click system to re-use the ray-casting logic for a new firing system upcoming.
+
+**Thoughts**:
+I've stumbled into an issue with ordering of systems, which seems to be an issue once I've created a singleton entity (which means there is now an order
+dependency). I may need to create a small system manager, where I can dictate the exact order in which the systems are initialized.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
