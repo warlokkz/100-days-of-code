@@ -304,3 +304,13 @@ dependency). I may need to create a small system manager, where I can dictate th
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D30 - 5/6/2019
+**Today's Progress**: 
+Created a ProjectileSpawner component, system and proxy for converting a prefab into a future projectile. Got it spawning on left-click for now.
+
+**Thoughts**:
+I took a different approach for handling the player input, instead of querying for the click singleton I'm looping over the input data, and querying for the spawner entity. I don't know if there is a greater benefit, but I feel like it makes more sense compared to iterating over the spawner components.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
