@@ -314,3 +314,14 @@ I took a different approach for handling the player input, instead of querying f
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+
+### R1D31 - 5/7/2019
+**Today's Progress**: 
+Created a ProjectileMovementSystem that will move the projectiles along their direction path and decay their velocity over time.
+
+**Thoughts**:
+I had a lot of fun tweaking the values for the projectiles this time around! :)
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
