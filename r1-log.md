@@ -325,3 +325,13 @@ I had a lot of fun tweaking the values for the projectiles this time around! :)
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D32 - 5/8/2019
+**Today's Progress**: 
+begun refactoring projectileMovementSystem to use the physics preview (with ties into DOTS).
+
+**Thoughts**:
+
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
