@@ -328,10 +328,30 @@ I had a lot of fun tweaking the values for the projectiles this time around! :)
 
 ### R1D32 - 5/8/2019
 **Today's Progress**: 
+Created a despawning system for projectiles.
+
+**Thoughts**:
+
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
+
+### R1D33 - 5/9/2019
+**Today's Progress**: 
 begun refactoring projectileMovementSystem to use the physics preview (with ties into DOTS).
 
 **Thoughts**:
 
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
+
+### R1D34 - 5/10/2019
+**Today's Progress**: 
+Projectiles now use physics to determine trajectory. Added CollisionFilters for Raycast hits.
+
+**Thoughts**:
+DOTS Physics is attempting to replace as much as it can - the PhysicsShape is a replacement for Colliders.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
