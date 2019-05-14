@@ -355,3 +355,12 @@ DOTS Physics is attempting to replace as much as it can - the PhysicsShape is a 
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D35 - 5/11/2019
+**Today's Progress**: 
+Lot's of reading about ECS. Read mainly about strategies to combat garbage by batching command buffer requests. Not much closer to implementing it, however.
+
+**Thoughts**:
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
