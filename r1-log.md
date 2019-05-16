@@ -374,3 +374,13 @@ Created a TrackSystem to move tagged Entities backwards against a flow of a curr
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D37 - 5/15/2019
+**Today's Progress**: 
+Refactored the TrackSystem heavily, trying to use the notion of "ticks" instead of updating individual systems by Time.delta time. Hopefully this will allow more control over how/when things are updated.
+
+**Thoughts**:
+I'm starting to pierce through to the next level of my understanding of ECS, which is really nice. The pattern is beginning to reveal itself more to me.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
