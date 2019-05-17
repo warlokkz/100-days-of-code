@@ -384,3 +384,13 @@ I'm starting to pierce through to the next level of my understanding of ECS, whi
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D38 - 5/16/2019
+**Today's Progress**: 
+More progress on the track system, added track segments - which add to the track world length on register.
+
+**Thoughts**:
+I'm using some easier patterns of ECS right now to get stuff working and not thinking through the repurcussions of my design yet. But I do want to spend some time doing a light optimization pass, as I'm already seeing a few GC spikes with so few entities already.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
