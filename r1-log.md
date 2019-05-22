@@ -394,3 +394,13 @@ I'm using some easier patterns of ECS right now to get stuff working and not thi
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D39 - 5/21/2019
+**Today's Progress**: 
+Small hiatus over the weekend, but im back on the horse! I'm adjusting projectiles by an offset with a sync system to make the projectile land in the correct place where the track would be when you clicked on it.
+
+**Thoughts**:
+The hardest part is *just* starting.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
