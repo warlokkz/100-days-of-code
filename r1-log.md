@@ -404,3 +404,13 @@ The hardest part is *just* starting.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D40 - 5/22/2019
+**Today's Progress**: 
+Did more study than coding today. Made progress towards finding out when to spawn 'track' segments into the world based on the length of the world.
+
+**Thoughts**:
+I need to spend some time just to flesh out the game design/objective itself.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
