@@ -414,3 +414,13 @@ I need to spend some time just to flesh out the game design/objective itself.
 
 **Link to work**:
 [repo](https://github.com/warlokkz/ship)
+
+### R1D41 - 5/28/2019
+**Today's Progress**: 
+Added proxy to pass track prefab to the track spawning system. Need to figure out the coordinates to place the track system.
+
+**Thoughts**:
+jumping back on the horse. I need to clean up some of the systems, or group them together because things are starting to get disorganized.
+
+**Link to work**:
+[repo](https://github.com/warlokkz/ship)
